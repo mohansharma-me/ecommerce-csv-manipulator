@@ -1281,6 +1281,8 @@ namespace CSVManip
         {
             htmlViewer.Text = txtText.Text;
             htmlEditorControl.InnerHtml = txtText.Text;
+
+            // hello it's me...
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
