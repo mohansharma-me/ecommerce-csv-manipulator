@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVManip", "CSVManip\CSVManip.csproj", "{83F948CA-82F8-493F-A482-C832311532DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLEditorControl", "..\..\..\Development Tools\Different Modules\C#\HTMLEditor\WinForms HTML Editor\C#\HtmlEditorControl\HTMLEditorControl.csproj", "{5873DE0F-6853-4C8E-91A4-7A6861069A9A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CSVManipSetup", "CSVManipSetup\CSVManipSetup.vdproj", "{BEFA6EBB-25E1-4904-B2FD-FD1DC2339169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F948CA-82F8-493F-A482-C832311532DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F948CA-82F8-493F-A482-C832311532DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F948CA-82F8-493F-A482-C832311532DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F948CA-82F8-493F-A482-C832311532DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5873DE0F-6853-4C8E-91A4-7A6861069A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5873DE0F-6853-4C8E-91A4-7A6861069A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5873DE0F-6853-4C8E-91A4-7A6861069A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5873DE0F-6853-4C8E-91A4-7A6861069A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFA6EBB-25E1-4904-B2FD-FD1DC2339169}.Debug|Any CPU.ActiveCfg = Debug
+		{BEFA6EBB-25E1-4904-B2FD-FD1DC2339169}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
