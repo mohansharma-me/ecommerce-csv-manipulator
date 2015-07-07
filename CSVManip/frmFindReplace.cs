@@ -14,7 +14,6 @@ namespace CSVManip
         public frmFindReplace()
         {
             InitializeComponent();
-            int tempTestingVar=0;
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
